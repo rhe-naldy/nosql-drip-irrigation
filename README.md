@@ -11,10 +11,10 @@ Below are a detailed image of the system architecture and circuit diagram, which
   
 * The proposed system architecture diagram
   
-<img src="https://github.com/rhe-naldy/nosql-drip-irrigation/blob/main/system_architecture_diagram.png?raw=true" width="256">
+<img src="https://github.com/rhe-naldy/nosql-drip-irrigation/blob/main/system_architecture_diagram.png?raw=true" width="512">
   
   
   
 * The drip irrigation circuit diagram
   
-<img src="https://github.com/rhe-naldy/nosql-drip-irrigation/blob/main/drip_irrigation_circuit_diagram.png?raw=true" width="256">
+<img src="https://github.com/rhe-naldy/nosql-drip-irrigation/blob/main/drip_irrigation_circuit_diagram.png?raw=true" width="512">
